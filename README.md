@@ -28,7 +28,7 @@ Note: dots are indicative of mines.
 
 <h2>To run the Assembly Implementation:</h2>
 
-This part was coded specifically with performace metrics like Dynamic Execution Length Static Instructions and Operand storage requirements in mind.
+This part was coded specifically with performace metrics like Dynamic execution length,Static instructions and Operand storage requirements in mind.
 
 You'll have to download the MiSaSiM MIPS ISA Simulator from http://lindawills.ece.gatech.edu/misasim/index.html to run the assembly code.
 
